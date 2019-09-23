@@ -1,6 +1,6 @@
 import React from 'react';
 
-function PageHeader(){
+const PageHeader = () => {
           return(
             
                <header className="page-header">

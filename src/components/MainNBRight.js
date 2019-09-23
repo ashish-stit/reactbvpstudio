@@ -1,7 +1,7 @@
 import React from 'react';
 
-  function MainNavbarRight(){
-    return(
+const MainNBRight = () => {
+  return (
        <header className="header-right">
         
               <ul className="nav-menu list-unstyled d-flex flex-md-row align-items-md-center">
@@ -17,6 +17,6 @@ import React from 'react';
               </ul>
            
       </header>
-      )
+      );
   }
-  export default MainNavbarRight;
+  export default MainNBRight;

@@ -49,3 +49,15 @@ img.logo-menu.logo2 {
 input.form-control.navseacrh.myBtnb {
     padding-top: 0px;
 }
+footer.main-footer {
+    background-color: #2f333e;
+    color: white;
+    padding-top: 20px;
+}
+header.page-header {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+nav.side-navbar {
+    margin-top: 20px;
+}

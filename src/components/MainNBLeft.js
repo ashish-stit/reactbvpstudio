@@ -1,9 +1,9 @@
 import React from 'react';
-import MainNavbarRight from './MainNavbarRight';
+import MainNavbarRight from './MainNBRight';
 import logo from './img/me/bvp-logo.svg';
 
-  function MainNavbarLeft(){
-    return(
+const MainNBL = () => {
+  return (
        <header className="header">
         <nav className="navbar">
           <div className="container-fluid">
@@ -32,6 +32,6 @@ import logo from './img/me/bvp-logo.svg';
           </div>
         </nav>
       </header>
-      )
+  )
   }
-  export default MainNavbarLeft;
+  export default MainNBL;

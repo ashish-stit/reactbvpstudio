@@ -1,7 +1,7 @@
  import React from 'react';
 import SectionImg from './img/me/images.jpg';
 
- function Section(){
+ const Section = () => {
   return(
            <section className="tables">   
              <div className="container-fluid">

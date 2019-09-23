@@ -1,7 +1,7 @@
 import React from 'react';
 import Myfolder from './img/me/myfolder.png';
 
-function SideNavbar(){
+const SideNavbar = () => {
   return(
     
          <nav className="side-navbar"> {/* //  Sidebar Header */}
